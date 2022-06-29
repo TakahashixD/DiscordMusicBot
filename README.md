@@ -27,9 +27,9 @@ node load index.js
 Que vai dar o deploy dos slashcomands para nosso servidor.
 
 # Como usar
-Para usar o bot basta utilizar o comando:
+Para usar o bot basta utilizar o comando
 ```node index.js```
-Ou utilizar replit.
+ou utilizar o replit.
 
 # Tecnologias
 <p><a href="https://nodejs.org/en/">🔗Node.js</a></p>
