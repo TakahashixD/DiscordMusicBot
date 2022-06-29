@@ -1,9 +1,11 @@
 # DiscordMusicBot
 ## Descrição do Projeto
 <p align="center">BOT de musica para discord usando slashcommands</p>
+
 Tabela de conteúdos
 =================
 <!--ts-->
+   * [Sobre](#Sobre)
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)
@@ -15,4 +17,5 @@ Tabela de conteúdos
    * [Tests](#testes)
    * [Tecnologias](#tecnologias)
 <!--te-->
+
 # [Instalação](#instalacao)
