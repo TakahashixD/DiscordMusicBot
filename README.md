@@ -6,7 +6,7 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
+   * [Deploy](#Deploy dos slash commands no discord)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
       * [Local files](#local-files)
@@ -17,4 +17,8 @@ Tabela de conteúdos
    * [Tecnologias](#tecnologias)
 <!--te-->
 
-# [Instalação]
+# Instalação
+
+```
+Look! Você pode ver minhas aspas.
+```
