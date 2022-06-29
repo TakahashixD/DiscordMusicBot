@@ -32,5 +32,5 @@ Para usar o bot basta utilizar o comando:
 Ou utilizar replit.
 
 # Tecnologias
-<a href="https://nodejs.org/en/">🔗Node.js</a>
-<a href="https://discord.js.org/#/">🔗Discord.js</a>
+<a align="center" href="https://nodejs.org/en/">🔗Node.js</a>
+<a align="center" href="https://discord.js.org/#/">🔗Discord.js</a>
