@@ -6,19 +6,31 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Deploy](#Deploy dos slash commands no discord)
+   * [Deploy](#deploy)
    * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
    * [Tecnologias](#tecnologias)
 <!--te-->
 
-# Instalação
+# Deploy
+
+Para dar deploy nos SlashCommands primeiro deve se trocar os CLIENT_ID E GUILD_ID no arquivo index.js, sendo o primeiro o do seu bot e o segundo do servidor do discord:
 
 ```
-Look! Você pode ver minhas aspas.
+const CLIENT_ID = ""
+const GUILD_ID= ""
 ```
+
+Em seguida utilizar o comando:
+```
+node load index.js
+```
+Que vai dar o deploy dos slashcomands para nosso servidor.
+
+# Como usar
+Para usar o bot basta utilizar o comando:
+```node index.js```
+Ou utilizar replit.
+
+#Tecnologias
+<a href"https://nodejs.org/en/">Node.js</a>
+<a href"https://discord.js.org/#/">Discord.js</a>
