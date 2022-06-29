@@ -2,7 +2,7 @@
 ## Descrição do Projeto
 <p align="center">BOT de musica para discord usando slashcommands</p>
 
-Tabela de conteúdos
+Tabela de Conteúdos
 =================
 <!--ts-->
    * [Tabela de Conteudo](#tabela-de-conteudo)
@@ -31,6 +31,6 @@ Para usar o bot basta utilizar o comando:
 ```node index.js```
 Ou utilizar replit.
 
-#Tecnologias
+# Tecnologias
 <a href="https://nodejs.org/en/">🔗Node.js</a>
 <a href="https://discord.js.org/#/">🔗Discord.js</a>
