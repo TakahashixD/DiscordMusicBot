@@ -16,8 +16,8 @@ function keepAlive(){
 
 const LOAD_SLASH = process.argv[2] == "load";
 
-const CLIENT_ID = "987348452671381584"
-const GUILD_ID= "207254450832801794"
+const CLIENT_ID = ""
+const GUILD_ID= ""
 
 const client = new Discord.Client({ intents: ["GUILDS", "GUILD_MESSAGES","GUILD_VOICE_STATES"] });
 
